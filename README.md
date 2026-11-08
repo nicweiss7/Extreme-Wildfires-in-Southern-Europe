@@ -1,4 +1,4 @@
-# Extreme Wildfires in Southern Europe (in progress)
+# Extreme Wildfires in Southern Europe 
 
 Statistical analysis of extreme wildfire sizes in Mediterranean Europe (including Turkey) and the Alpine region, based on EFFIS burnt area data (2009–2026). The focus is the upper tail of the burned area distribution, modelled with Generalized Pareto distributions in a peaks-over-threshold framework.
 
